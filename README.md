@@ -11,7 +11,7 @@
 ## My Goals
 - 🌟 My GitHub is a space where I aim to learn from others experience and view different intresting projects
 ## Fun Fact
-- I love to 🧗‍♀️ climb, 🚴 ride a bike, 🏄‍♀️ surf, ⛹️‍♀️ play basketball 
+- I love to 🧗‍♀️ climb, 🚴 ride a bike, 🏄‍♀️ surf
 ## Get in Touch
 - 📫 Feel free to reach out to me via LinkedIn - https://www.linkedin.com/in/shira-fisher-b3b294125/
 
