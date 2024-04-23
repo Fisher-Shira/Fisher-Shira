@@ -5,8 +5,9 @@
 - 💻 With 2.5 years experience in Data Engineer & BI Developer
 - 🖱️ I successfully completed a 3 months Data Analyst course at The School Of Computer Professions (Basmach)
 ## My Skiils
-- 💾 Data Infrastructure: ETL (Extract, Transform, Load), Apache Airflow, Orale Database, Dbt, OLAP Cubes, SSMS
-- 💬 Programming Languages: PlSql, Python, JavaScript, MDX, HTML, CSS
+- 💾 Data Integration & Transformation: ETL (Extract, Transform, Load), ELT, Apache Airflow, DBT
+- 💾 Data Warehousing & Analytics: Database Design, Star Schema, Business Intelligence (BI), Oracle Database, Microsoft SQL Server, OLAP Cubes
+- 💬 Programming Languages: python, SQL, PLSQL, MDX, C, JavaScript, HTML, CSS
 ## My Goals
 - 🌟 My GitHub is a space where I aim to learn from others experience and view different intresting projects
 ## Fun Fact
