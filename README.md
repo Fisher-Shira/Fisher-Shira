@@ -7,9 +7,7 @@
 ## My Skills
 - 💾 Data Integration & Transformation: ETL (Extract, Transform, Load), ELT, Apache Airflow, DBT
 - 💾 Data Warehousing & Analytics: Database Design, Star Schema, Business Intelligence (BI), Oracle Database, Microsoft SQL Server, OLAP Cubes
-- 💬 Programming Languages: python, SQL, PLSQL, MDX, JAVA, C, JavaScript, HTML, CSS
-## My Goals
-- 🌟 My GitHub is a space where I aim to learn from others experience and view different intresting projects
+- 💬 Programming Languages: python, SQL, PLSQL, MDX, JAVA, C
 ## Get in Touch
 - 📫 Feel free to reach out to me via LinkedIn - https://www.linkedin.com/in/shira-fisher/
 
