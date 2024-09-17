@@ -9,4 +9,4 @@
 - 💾 Data Warehousing & Analytics: Database Design, Star Schema, Business Intelligence (BI), Oracle Database, Microsoft SQL Server, OLAP Cubes
 - 💬 Programming Languages: python, SQL, PLSQL, MDX, JAVA, C
 ## Get in Touch
-- 📫 Feel free to reach out to me via LinkedIn - linkedin.com/in/shira-fisher/
+- 📫 Feel free to reach out to me via LinkedIn - www.linkedin.com/in/shira-fisher/
