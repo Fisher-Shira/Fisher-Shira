@@ -1,5 +1,5 @@
 # Welcome to Shira Fisher's GitHub!
-👋 Hi, I’m @Fisher-Shira, a Conputer Science student
+👋 Hi, I’m @Fisher-Shira, a Computer Science student
 ## About Me
 - 👩‍🎓 I'm currently pursuing a degree in Coputer Science at Bar-Ilan University
 - 💻 With 2.5 years experience in Data Engineer & BI Developer
